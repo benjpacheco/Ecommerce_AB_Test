@@ -1,5 +1,5 @@
 
-<h1 align="center">Project III: Analyze A/B Test Results</h1>
+<h1 align="center">Ecommerce Website A/B Test</h1>
 
 ## Table of Contents
 - [Installation](#installation)
